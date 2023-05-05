@@ -20,7 +20,6 @@ I am really interested in working for them.
 |       **Király Márk**       |
 |<a href="https://www.facebook.com/kiraly.mark.54584"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30px" height="30px"></a> <a href="https://github.com/ProgrammerGnome"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30px" height="30px"></a> <a href="https://www.youtube.com/@programmergnome3720"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="30px" height="30px"></a>|
 |<a href="https://pemonline.hu/author/kiraly-mark/">PEMonline (author) |
-|<a href="https://poet.hu/tag/ProgrammerGnome">Poet.hu (author) |
 
 ##### If you have a any programming project idea, feel free to reach out!
 #### Thank you for visiting my profile!
